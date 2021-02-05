@@ -15,5 +15,6 @@
 
 ![Screenshot_6](https://user-images.githubusercontent.com/66659846/106993625-7471e300-67be-11eb-8f30-badb1b7314f0.png)
 
-[
+[wordcount]
+
 ![Screenshot_7](https://user-images.githubusercontent.com/66659846/106993762-c0bd2300-67be-11eb-868f-941720b88649.png)
